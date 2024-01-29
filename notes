@@ -1,0 +1,10 @@
+first -> simple p2p network topology
+
+second -> Wifi or LAN networking concept, CSMA and p2p network.
+csma -> carrier sense multiple access -> p2p connected to bus and pass on packet.
+
+netdevices -> modules use to communicate.
+function send and rcv - params to set info : tx power per packet.
+
+socket -> a pipe send rx based on some rules. Abstraction with API feature.
+UDP and TCP sockets -> send a payload of data and then principles applied like header etc

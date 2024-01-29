@@ -1,0 +1,11 @@
+tracemetrics - ascii info - java -jar tracemetrics.jar [after going inside /tracemetrics.]
+
+gedit first.tr
+
+./ns3 run scratch/first.cc
+
+inside netanim ./NetAnim 
+
+
+packets see:
+wireshark file.pcap
